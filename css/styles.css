@@ -24,7 +24,7 @@ h2{
 h3{
 	font-family: 'Montserrats', sans-serif;
 	font-weight: 900;
-	color: #00
+	color: #000
 }
 p {
 	color: #8f8f8f
@@ -125,6 +125,29 @@ p {
 	padding: 3% 2%;
 }
 
+
+/*call to action */
+#cta{
+	background-color: #ff4c68;
+	color: #fff;
+	padding: 7% 15%;
+	text-align: center;
+}
+.cta-title{
+	font-size: 3.5rem	;
+	color: #fff;
+	line-height: 1.5;
+	
+	}
+/*footer*/
+#footer {
+	background-color: #fff;
+	text-align: center;
+	padding: 7% 15%;
+}
+.social-icon{
+	margin: 20px 10px;
+}
 
 /*media function*/
 @media (max-width: 1028px){
